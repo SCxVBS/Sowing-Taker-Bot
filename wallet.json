@@ -1,0 +1,10 @@
+[
+    {
+      "address": "0x123ADDRESS-1",
+      "privateKey": "0xYourPrivateKeyHere"
+    },
+    {
+      "address": "0xabc0x123ADDRESS-2",
+      "privateKey": "0xAnotherPrivateKeyHere"
+    }
+  ]
