@@ -8,6 +8,10 @@
 
 A Node.js bot for automating the claiming process on the Taker Sowing platform. This script interacts with the Taker API and smart contracts to perform wallet login and claim transactions, featuring a colorful console interface with an animated ASCII art banner.
 
+## Referral Link
+Sign up for Taker Sowing using our referral link to get started:
+**[https://sowing.taker.xyz/?start=JWGYPRKP](https://sowing.taker.xyz/?start=JWGYPRKP)**
+
 ## Table of Contents
 - [Features](#features)
 - [Prerequisites](#prerequisites)
@@ -33,11 +37,12 @@ A Node.js bot for automating the claiming process on the Taker Sowing platform. 
 - **npm**: Node package manager for installing dependencies.
 - **Wallet File**: A `wallet.json` file containing wallet addresses and private keys.
 - **Internet Connection**: Required for API calls and blockchain interactions.
+- **Taker Sowing Account**: Register using our [referral link](https://sowing.taker.xyz/?start=JWGYPRKP).
 
 ## Installation
 1. **Clone or Download the Repository**:
    ```bash
-   git clone https://github.com/SCxVBS/Sowing-Taker-Bot.git
+   git clone <repository-url>
    cd taker-sowing-bot
    ```
    Alternatively, download the script files manually.
